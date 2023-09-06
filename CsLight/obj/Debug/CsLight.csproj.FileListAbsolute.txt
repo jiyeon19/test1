@@ -1,0 +1,8 @@
+C:\Users\gekyume\source\repos\CsLight\CsLight\obj\Debug\CsLight.csproj.AssemblyReference.cache
+C:\Users\gekyume\source\repos\CsLight\CsLight\obj\Debug\CsLight.csproj.SuggestedBindingRedirects.cache
+C:\Users\gekyume\source\repos\CsLight\CsLight\obj\Debug\CsLight.csproj.CoreCompileInputs.cache
+C:\Users\gekyume\source\repos\CsLight\CsLight\bin\Debug\CsLight.exe.config
+C:\Users\gekyume\source\repos\CsLight\CsLight\bin\Debug\CsLight.exe
+C:\Users\gekyume\source\repos\CsLight\CsLight\bin\Debug\CsLight.pdb
+C:\Users\gekyume\source\repos\CsLight\CsLight\obj\Debug\CsLight.exe
+C:\Users\gekyume\source\repos\CsLight\CsLight\obj\Debug\CsLight.pdb
